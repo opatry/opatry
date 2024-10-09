@@ -1,7 +1,5 @@
 Welcome to my GitHub profile 👋
 
-I'm currently working at [MyScript](https://www.myscript.com/) ✍️ as mobile team lead on [Nebo](https://nebo.app/) 📝, note taking application (iOS, Android, Windows) using [handwriting recognition & interactivity](https://www.youtube.com/watch?v=6iNqExuVra4).
-
 ## I do
 
 - Android development in Kotlin
